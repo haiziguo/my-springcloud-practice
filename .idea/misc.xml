@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/../test/service-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/../test/serice-feign/pom.xml" />
         <option value="$PROJECT_DIR$/../test/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/../test/config-server/pom.xml" />
       </list>
     </option>
   </component>
