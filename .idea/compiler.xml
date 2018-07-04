@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="config-client" />
+        <module name="config-eureka-server" />
         <module name="config-server" />
         <module name="serice-feign" />
         <module name="server" />
@@ -17,6 +18,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="config-client" target="1.8" />
+      <module name="config-eureka-server" target="1.8" />
       <module name="config-server" target="1.8" />
       <module name="serice-feign" target="1.8" />
       <module name="server" target="1.8" />

@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/../test/zuul/pom.xml" />
         <option value="$PROJECT_DIR$/../test/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/../test/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../test/config-eureka-server/pom.xml" />
       </list>
     </option>
   </component>
