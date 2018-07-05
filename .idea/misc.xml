@@ -11,6 +11,9 @@
         <option value="$PROJECT_DIR$/../test/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/../test/config-client/pom.xml" />
         <option value="$PROJECT_DIR$/../test/config-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../test/server-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/../test/service-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/../test/service-zipkin-miya/pom.xml" />
       </list>
     </option>
   </component>
